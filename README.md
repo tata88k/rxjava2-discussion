@@ -3,4 +3,4 @@ This project contains no code. It aims to offer a rxjava comunity for Chinese an
 
 该仓库没有任何代码, 旨在为国内android开发者营造一个xjava讨论区. 特别是英文基础不太好的开发者, 因为对他们来说阅读英文文档可能会是一件困难的事情. 任何关于rxjava问题, 都可以提交issue进行讨论.
 
-希望国内android开发者们, 可以共同学习与进步.
+在此, 希望国内android开发者们, 可以共同学习与进步.
